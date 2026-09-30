@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.xn--aifun-h02iv96gulszl2a.com/sitemap.xml
